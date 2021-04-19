@@ -6,7 +6,7 @@ This was the final project of [Jonas Schmedtmann's extensive 70-hour JavaScript 
 
 #### • HTML5
 
-#### • CSS3
+#### • SASS
 
 #### • JavaScript
 
